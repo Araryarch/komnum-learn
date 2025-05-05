@@ -1,5 +1,3 @@
----
-
 ## 🗓️ **Hari 1: Pengenalan Komputasi Numerik & Metode Bisection**
 
 **🎯 Target:**
@@ -93,13 +91,3 @@
 **📘 Latihan:**
 
 * Bandingkan hasil dari semua metode untuk 1 soal fungsi kuadrat atau non-linear
-
----
-
-## ✅ Tips Tambahan
-
-* Gunakan kalkulator ilmiah / WolframAlpha / Desmos untuk bantu verifikasi hasil
-* Catat setiap rumus penting
-* Kerjakan minimal 2 soal per metode agar terbiasa
-
----
